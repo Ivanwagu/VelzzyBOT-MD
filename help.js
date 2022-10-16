@@ -145,10 +145,7 @@ return `▻►▻►▻►▻►▻►▻►▻►▻►
 ╰─────────────────
 ▻►▻►▻►▻►▻►▻►▻►▻►
 ╭───[ *DOWNLOADER* ]
-│ *•* ${prefix}play
 │ *•* ${prefix}tiktok
-│ *•* ${prefix}ytmp3
-│ *•* ${prefix}ytmp4
 │ *•* ${prefix}gitclone
 │ *•* ${prefix}mediafire
 │ *•* ${prefix}tiktokmp3
